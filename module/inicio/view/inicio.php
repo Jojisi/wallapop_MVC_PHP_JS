@@ -1,0 +1,1 @@
+<img src="view/img/welcome.png " alt="portada" style="width: 100%; height: 100%;">
